@@ -1,1 +1,1 @@
-export const TIP_MESSAGE = `[Tip]: Use '--h' or '--help' as [ACTION] for help.`;
+export const TIP_MESSAGE = `[Tip]: Use '--h' or 'help' as [ACTION] for help.`;
